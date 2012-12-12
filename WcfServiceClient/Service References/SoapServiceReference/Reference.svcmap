@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="87e7e006-1c44-4e65-b719-80f3435086d4" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="https://alcherk-pc/SoapService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="SoapService.xsd" MetadataType="Schema" ID="ec6aa932-6134-4c42-be92-665383617920" SourceId="1" SourceUrl="https://alcherk-pc/SoapService.svc?xsd=xsd0" />
+    <MetadataFile FileName="SoapService.wsdl" MetadataType="Wsdl" ID="2fa4ce38-ca88-4edf-9b17-4caa4122e1c3" SourceId="1" SourceUrl="https://alcherk-pc/SoapService.svc?wsdl" />
+    <MetadataFile FileName="SoapService.disco" MetadataType="Disco" ID="bcc95e35-8135-4b91-b367-a1cd9ebf6f2c" SourceId="1" SourceUrl="https://alcherk-pc/SoapService.svc?disco" />
+    <MetadataFile FileName="SoapService1.xsd" MetadataType="Schema" ID="4aacf402-6411-4150-90d5-9d4faf05c7ff" SourceId="1" SourceUrl="https://alcherk-pc/SoapService.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

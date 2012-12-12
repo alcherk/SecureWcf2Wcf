@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\inetpub\wwwroot\AuthTest\SoapService" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/WcfSoapService.dll" publishTime="12/12/2012 16:01:36" />
+    <file relUrl="SoapService.svc" publishTime="12/12/2012 15:10:41" />
+    <file relUrl="bin/WcfSoapService.pdb" publishTime="12/12/2012 16:01:35" />
+    <file relUrl="Web.config" publishTime="12/12/2012 16:01:40" />
+  </publishProfile>
+</publishData>
